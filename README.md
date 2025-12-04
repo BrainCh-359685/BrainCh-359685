@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="TU_IMAGEN_DEL_BANNER.jpg" alt="Banner Brian Chaupis" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="Baner.jpg" alt="Banner Brian Chaupis" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 
   # ¡Hola! Soy Brian Chaupis 👋
 
