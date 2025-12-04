@@ -18,8 +18,7 @@
   ---
 
   <p align="left">
-    Soy un apasionado de los datos con formación en <b>Ciencias Matemáticas</b>. Mi enfoque es transformar datos crudos en decisiones de negocio estratégicas. Me especializo en el ciclo completo del dato: desde la limpieza compleja con Python/SQL hasta la creación de dashboards de alto impacto en Power BI y Tableau, integrando análisis predictivo y estadístico. Cuento con un nivel de <b>Inglés Intermedio</b> que me permite desenvolverme en entornos profesionales globales.
-  </p>
+    Soy un apasionado de los datos con formación en <b>Ciencias Matemáticas</b>. Mi enfoque es transformar datos crudos en decisiones de negocio estratégicas. Me especializo en el ciclo completo del dato: desde la limpieza compleja con Python/SQL hasta la creación de dashboards de alto impacto en Power BI y Tableau, integrando análisis predictivo y estadístico.
 
 </div>
 
