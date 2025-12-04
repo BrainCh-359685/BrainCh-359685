@@ -67,5 +67,5 @@ Aquí presento mis soluciones analíticas más recientes, enfocadas en resolver 
 
 ---
 <div align="center">
-  <p>¡Gracias por visitar mi perfil! Si te interesa mi trabajo, no dudes en conectar vía LinkedIn.</p>
+  <p>¡Gracias por visitar mi perfil!</p>
 </div>
